@@ -6,7 +6,7 @@ attributes
   - is_clean false
   - height 72 inches
   - width 36 inches
-  - color red
+  - color "red"
 
  methods
   - close_door: sets "is_open" to false
