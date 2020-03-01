@@ -1,0 +1,16 @@
+Object
+- Avantco C30 (coffee maker)
+
+
+Attributes 
+- color: "silver"
+- is_on: true
+- is_clean: false
+- how_full_is_pot: 67%
+
+
+Methods
+- change_color: color = "black"
+- turn_off: is_on = false
+- clean: is_clean = true 
+- calculate_percent_full: V=πr2h (uses that formula to calculate how full) 

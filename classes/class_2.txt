@@ -3,10 +3,9 @@ Class
 
 Attribute 
 - color (string) 
-- model (string
 - is_on (boolean)
 - is_clean (boolean)
-- how_full_is_pot (float)
+- how_full_is_pot (int)
 
 Methods
 - change_color (change the color attribute)
