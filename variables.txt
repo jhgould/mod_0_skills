@@ -13,8 +13,11 @@ quotient = num7/num2
 songs = ["seaside", "Be Gone", "Saving Souls"]
 songs.shift
 
+# The way the question was worded was confusing to me. Wasn’t sure if you wanted me to have the console print out a questions and save the response as a variable or call the .length method on food. Heres both.
 
 puts "how many characters are there in the food string?"
 answer = gets.chomp
+
+p food.length
 
 
