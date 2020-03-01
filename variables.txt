@@ -1,0 +1,20 @@
+Part III
+
+food = "apples"
+is_delicious = true
+
+food = "Peanut butter"
+
+num2 = 5
+num7 = 10
+
+quotient = num7/num2
+
+songs = ["seaside", "Be Gone", "Saving Souls"]
+songs.shift
+
+
+puts "how many characters are there in the food string?"
+answer = gets.chomp
+
+
