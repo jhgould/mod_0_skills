@@ -1,0 +1,15 @@
+Object 
+- kitchen_entrance_door
+
+attributes
+  - is_open true
+  - is_clean false
+  - height 72 inches
+  - width 36 inches
+  - color red
+
+ methods
+  - close_door: sets "is_open" to false
+  - clean_door: sets "is_clean" to true
+  - change_color: changes color to your choosing
+  - calculate_sq_footage: 72 * 36 = 18sq feet
