@@ -1,0 +1,16 @@
+Class
+- coffee maker
+
+Attribute 
+- color (string) 
+- model (string
+- is_on (boolean)
+- is_clean (boolean)
+- how_full_is_pot (float)
+
+Methods
+- change_color (change the color attribute)
+- turn_off (sets is_on to false)
+- clean (sets is_clean to true)
+- calculate_percent_full (calculates the percent full the coffee pot is)
+
